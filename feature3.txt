@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is a file from develop branch
 =======
 this is a file from testforconflict
 >>>>>>> testforconflict
+=======
+this is a file from testforconflict
+
+>>>>>>> 5d9c4cc7ff98862c38278a26194050deb9d1aa3b
